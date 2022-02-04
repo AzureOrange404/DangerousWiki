@@ -1,8 +1,7 @@
 # RickDangerous Project Wiki
 
-This site mainly functions as a guide for using RetroPie especially with a RickDangerous disk image.
-
-*The page is still in early development*
+This site mainly functions as a guide for using RetroPie especially with a RickDangerous disk image.  
+*The wiki is still in early development*
 
 ## Recommended Hardware
 
@@ -10,13 +9,13 @@ This site mainly functions as a guide for using RetroPie especially with a RickD
 
 [Recommended Hardware](/pages/hardware/hardware.md)
 
-## Guides
+## How-to-Guides
 
-### Flashing the image:
+### Flashing a disk image
 
 [How to flash a disk image](/pages/guides/flash.md)
 
-### Connecting the RPi4 to a display
+### Connecting the RPi 4 to a display
 
 [How to connect your RPi4 to a display](/pages/guides/display.md)
 
@@ -24,13 +23,13 @@ This site mainly functions as a guide for using RetroPie especially with a RickD
 
 [How to configure a controller in Emulation Station](/pages/guides/controller.md)
 
+### Useful Linux Terminal commands
+
+[How to Linux Terminal](/pages/guides/terminal.md)
+
 ### Runcommand Launch Menu
 
 [Runcommand Launch Menu]
-
-### Linux Terminal
-
-[Linux Terminal]
 
 ### Emulation Station
 
@@ -38,10 +37,10 @@ This site mainly functions as a guide for using RetroPie especially with a RickD
 
 ## Systems and games included
 
-### Currently included systems and games
+### Systems currently included in the RickDangerous Never Ending Edition
 
 [Current Systems](/pages/systems/current.md)
 
-### Future additions
+### Future additions to the Never Ending Edition
 
 [Future Additions](/pages/systems/future.md)
