@@ -1,4 +1,5 @@
 # How to pair and configure a PS4 DualShock Controller
+_by @RickDangerous_
 
 1. Enter the Bluetooth Devices Configuration menu.
 2. Put the controller into pairing mode by pressing and holding the **Share Button** and then the **PS Button**  
