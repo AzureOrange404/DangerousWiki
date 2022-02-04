@@ -47,7 +47,7 @@ Then you proceed and configure your controller as you did on first boot.
 
 ## Guides for specific controllers
 
-[PS4 DualShock Controller][/pages/guides/ps4_dualshock.md]
+[PS4 DualShock Controller](/pages/guides/ps4_dualshock.md)
 
 [8BitDo Pro2]
 
