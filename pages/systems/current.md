@@ -107,3 +107,5 @@
 [X68000](/pages/systems/x68000.md)
 
 [ZX Spectrum](/pages/systems/zx_spectrum.md)
+
+*Standalone emulators which don’t support hotkeys
