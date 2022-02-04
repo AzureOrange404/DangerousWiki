@@ -6,8 +6,8 @@ This site mainly functions as a guide for using RetroPie especially with a RickD
 ## Recommended Hardware
 <details>
   <summary>Recommended Hardware</summary>
-<br>
-  
+</br>
+
   [RickDangerous' personal setup](/pages/hardware/ricks_setup.md)
   
   [Recommended Hardware](/pages/hardware/hardware.md)
@@ -17,8 +17,7 @@ This site mainly functions as a guide for using RetroPie especially with a RickD
 
 <details>
   <summary>How-To-Guides</summary>
-<br>
-  
+
   ### Flashing a disk image
 
 [How to flash a disk image](/pages/guides/flash.md)
@@ -59,8 +58,8 @@ This site mainly functions as a guide for using RetroPie especially with a RickD
 ## Important files and their locations
 <details>
   <summary>Important files and their locations</summary>
-<br>
-  
+</br>
+
   [Important files and their locations](/pages/locations.md)
 </details>
 
@@ -69,8 +68,7 @@ This site mainly functions as a guide for using RetroPie especially with a RickD
 ## Systems and genres included
 <details>
   <summary>Systems and genres included</summary>
-<br>
-  
+
   ### Systems currently included in the RickDangerous Never Ending Edition
 
 [Current Systems](/pages/systems/current.md)
