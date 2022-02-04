@@ -26,11 +26,9 @@ This site mainly functions as a guide for using RetroPie especially with a RickD
 
 [Using Argon One with SSD](/pages/guides/flash_argon_one.md)
 
-### Connecting the Pi to a display
+### Connecting the RPi4 to a display
 
-[General]
-
-[Using Argon One Case]
+[Connect to display](/pages/guides/connect_display.md)
 
 ### Controller Configuration
 
