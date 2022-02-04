@@ -22,7 +22,7 @@ This site mainly functions as a guide for using RetroPie especially with a RickD
 
 ### Controller Configuration
 
-[How to connect a controller to Emulation Station](/pages/guides/controller.md)
+[How to configure a controller in Emulation Station](/pages/guides/controller.md)
 
 ### Runcommand Launch Menu
 
