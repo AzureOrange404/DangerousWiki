@@ -1,3 +1,5 @@
+description: This is the official wiki for the RickDangerous RetroPie Project.
+theme: jekyll-theme-cayman
 # Welcome to Beautiful Jekyll!
 # This config file is meant for settings that affect your entire website. When you first
 # set up your website you should go through all these settings and edit them, but after
@@ -68,7 +70,6 @@ social-network-links:
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
 rss-description: This website functions as a wiki for the RickDangerous RetroPie project.
-description: This is the official wiki for the RickDangerous RetroPie Project.
 
 # --- General options --- #
 
@@ -170,7 +171,6 @@ footer-hover-col: "#0085A1"
 #  repository: # GitHub username/repository eg. "daattali/beautiful-jekyll"
 #  issue-term: title   # Mapping between blog posts and GitHub issues
 #  theme: github-light # Utterances theme
-theme: jekyll-theme-cayman
 #  label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
 
 # To use Staticman comments, uncomment the following section. You may leave the reCaptcha
