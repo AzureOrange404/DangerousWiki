@@ -9,7 +9,7 @@ Using **Windows** or **MacOS** you may use either [balenaEtcher](https://www.bal
 
 @RickDangerous personally uses balenaEtcher, so this option is confirmed to be working with his images. 
 
-Using **Linux** you theoretically do not need an addition program to flash an image to a drive. You may simply use the dd command from your favourite terminal.
+Using **Linux** you theoretically do not need an additional program to flash an image to a drive. You may simply use the dd command inside your favourite terminal.
 
 ## How to flash the image using balenaEtcher
 
