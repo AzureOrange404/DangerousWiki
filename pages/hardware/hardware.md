@@ -1,24 +1,26 @@
 # Recommended hardware
+_by @RickDangerous and Community_
 
-This is a list of hardware recommendations by RickDangerous and the community
+This is a list of hardware recommendations by RickDangerous and the community.  
+Hardware recommended by RickDangrous himself is marked with the following mark<sup>RD</sup>.
 
 ## Controller
 
-### [Mayflash F101](https://www.mayflash.com/product/showproduct.php?id=32)
+### [Mayflash F101](https://www.mayflash.com/product/showproduct.php?id=32)<sup>RD</sup>
 
-Pros:
+Pros:  
 - Cheap
 - Works great with retropie
 - You can swap the gate for 4-way games
 - Good Quality build
 - Good Brand
 
-Cons:
+Cons:  
 - Wired only ( but works fine with usb extension )
 - Some mods would require soldering.
 - Light in weight
 
-### [8bitDo Arcade Stick](https://www.8bitdo.com/arcade-stick/)
+### [8bitDo Arcade Stick](https://www.8bitdo.com/arcade-stick/)<sup>RD</sup>
 
 Pros:
 - Works Great with retropie
@@ -32,7 +34,7 @@ Cons:
 but once replaced by amazon the new controllers worked great and our my favourite
 controllers.
 
-### [PS4 Dualshok 4 V2 Controller](https://www.playstation.com/en-us/accessories/dualshock-4-wireless-controller/)
+### [PS4 Dualshok 4 V2 Controller](https://www.playstation.com/en-us/accessories/dualshock-4-wireless-controller/)<sup>RD</sup>
 
 Pros:
 - Works with every system on my build
@@ -44,7 +46,7 @@ Cons:
 - Needs recharging often and does not go into standby while using on pi
 - As with most modern analog controllers could suffer from analog stick drift.
 
-### [Retro-Bit Legacy-16](http://retro-bit.com/legacy16)
+### [Retro-Bit Legacy-16](http://retro-bit.com/legacy16)<sup>RD</sup>
 
 Pros:
 - Great 2.4G range
@@ -57,7 +59,7 @@ Cons:
 - The dongles are to thick I could only fit 2 with the argon case
 - When the dongle is connected even with the controller off it can causes some issues with other types of controllers until you remove the dongle
 
-### [8BitDo M30 Bluetooth Wireless Gamepad](https://www.8bitdo.com/m30/)
+### [8BitDo M30 Bluetooth Wireless Gamepad](https://www.8bitdo.com/m30/)<sup>RD</sup>
 
 Pros:
 - Feels nostalgic when playing megadrive games
@@ -71,7 +73,7 @@ Cons:
 
 ## Raspberry Pi Case
 
-### [Argon One M.2 Case for RPi 4](https://www.argon40.com/argon-one-m-2-case-for-raspberry-pi-4.html)
+### [Argon One M.2 Case for RPi 4](https://www.argon40.com/argon-one-m-2-case-for-raspberry-pi-4.html)<sup>RD</sup>
 
 Pros:
 - M.2 SATA SSD Compatibility
@@ -93,7 +95,7 @@ Cons:
 
 ## Storage
 
-### [WD Blue 3D NAND Internal SSD M.2 2280 SATA - 1 TB](https://www.westerndigital.com/products/internal-drives/wd-blue-sata-m-2-ssd)
+### [WD Blue 3D NAND Internal SSD M.2 2280 SATA 1TB](https://www.westerndigital.com/products/internal-drives/wd-blue-sata-m-2-ssd)<sup>RD</sup>
 
 Pros:
 - Works great with my build 
