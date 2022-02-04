@@ -5,6 +5,7 @@ This site mainly functions as a guide for using RetroPie especially with a RickD
 ## Recommended Hardware
 
 [RickDangerous' personal setup](ricks_setup.md)
+
 [Recommended Hardware](/pages/hardware/hardware.md)
 
 ## Systems and games included
