@@ -1,4 +1,5 @@
-# Flashing the Image using Argon One with SSD
+# Flashing an Image using Argon One with M.2 SSD
+_by @RickDangerous_
 
 If you are using the Argon One case with an M.2 SSD installed inside the case, then you
 have a couple of options to connect the drive to the PC for flashing the image.
