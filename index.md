@@ -11,7 +11,7 @@ This site mainly functions as a guide for using RetroPie especially with a RickD
   [RickDangerous' personal setup](/pages/hardware/ricks_setup.md)
   
   [Recommended Hardware](/pages/hardware/hardware.md)
-</details>
+</details></br>
 
 ## How-To-Guides
 
@@ -53,7 +53,7 @@ This site mainly functions as a guide for using RetroPie especially with a RickD
 ### Adding new games
 
 [How to add new games](/pages/guides/new_games.md)
-</details>
+</details></br>
 
 ## Important files and their locations
 <details>
@@ -61,9 +61,7 @@ This site mainly functions as a guide for using RetroPie especially with a RickD
 </br>
 
   [Important files and their locations](/pages/locations.md)
-</details>
-
-
+</details></br>
 
 ## Systems and genres included
 <details>
@@ -80,9 +78,7 @@ This site mainly functions as a guide for using RetroPie especially with a RickD
 ### Game genres present in the current Never Ending Edition
 
 [Playable Genres](/pages/systems/genres.md)
-</details>
-
-
+</details></br>
 
 ## Frequently asked questions
 
