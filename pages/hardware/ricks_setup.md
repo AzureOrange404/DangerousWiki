@@ -1,4 +1,5 @@
 ## This is the setup RickDangerous currently uses himself
+_by @RickDangerous_
 
 ### Hardware
 
@@ -8,3 +9,7 @@
 - SSD 1TB WD BLUE MSATA
 - PS4 Dualshock V2 Controllers
 - 8BitDo Arcade Stick
+
+### Software
+
+- RickDangerous Never Ending Edition
