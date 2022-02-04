@@ -24,11 +24,11 @@ This site mainly functions as a guide for using RetroPie especially with a RickD
 
 ### Flashing the image:
 
-[Using Argon One with SSD](/pages/guides/flash_argon_one.md)
+[How to flash an disk image](/pages/guides/flash.md)
 
 ### Connecting the RPi4 to a display
 
-[Connect to display](/pages/guides/connect_display.md)
+[How to connect your RPi4 to a display](/pages/guides/display.md)
 
 ### Controller Configuration
 
