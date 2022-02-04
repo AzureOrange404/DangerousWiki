@@ -29,13 +29,29 @@ This site mainly functions as a guide for using RetroPie especially with a RickD
 
 ### Runcommand Launch Menu
 
-[Runcommand Launch Menu]
+[How to mess with Runcommand](/pages/guides/runcommand.md)
 
-### Emulation Station
+### Multi Disc Games
 
-[Emulation Station]
+[How to change game disc](/pages/guides/multi_disk_games.md)
 
-## Systems and games included
+### Emulation Station Hotkeys
+
+[Hotkey Button and Hotkeys](/pages/guides/hotkeys.md)
+
+### Swap A and B buttons
+
+[How to swap A and B Button in Emulation Station](/pages/guides/swap_buttons.md)
+
+### Adding new games
+
+[How to add new games](/pages/guides/new_games.md)
+
+## Important files and their locations
+
+[Important files and their locations](/pages/locations.md)
+
+## Systems and genres included
 
 ### Systems currently included in the RickDangerous Never Ending Edition
 
@@ -44,3 +60,11 @@ This site mainly functions as a guide for using RetroPie especially with a RickD
 ### Future additions to the Never Ending Edition
 
 [Future Additions](/pages/systems/future.md)
+
+### Game genres present in the current Never Ending Edition
+
+[Playable Genres](/pages/systems/genres.md)
+
+## Frequently asked questions
+
+[FAQ](/pages/FAQ.md)
