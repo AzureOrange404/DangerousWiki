@@ -4,14 +4,22 @@ This site mainly functions as a guide for using RetroPie especially with a RickD
 *The wiki is still in early development*
 
 ## Recommended Hardware
+<details>
+  <summary>Recommended Hardware</summary>
+<br>
+  
+  [RickDangerous' personal setup](/pages/hardware/ricks_setup.md)
+  
+  [Recommended Hardware](/pages/hardware/hardware.md)
+</details>
 
-[RickDangerous' personal setup](/pages/hardware/ricks_setup.md)
+## How-To-Guides
 
-[Recommended Hardware](/pages/hardware/hardware.md)
-
-## How-to-Guides
-
-### Flashing a disk image
+<details>
+  <summary>How-To-Guides</summary>
+<br>
+  
+  ### Flashing a disk image
 
 [How to flash a disk image](/pages/guides/flash.md)
 
@@ -46,14 +54,24 @@ This site mainly functions as a guide for using RetroPie especially with a RickD
 ### Adding new games
 
 [How to add new games](/pages/guides/new_games.md)
+</details>
 
 ## Important files and their locations
+<details>
+  <summary>Important files and their locations</summary>
+<br>
+  
+  [Important files and their locations](/pages/locations.md)
+</details>
 
-[Important files and their locations](/pages/locations.md)
+
 
 ## Systems and genres included
-
-### Systems currently included in the RickDangerous Never Ending Edition
+<details>
+  <summary>Systems and genres included</summary>
+<br>
+  
+  ### Systems currently included in the RickDangerous Never Ending Edition
 
 [Current Systems](/pages/systems/current.md)
 
@@ -64,6 +82,9 @@ This site mainly functions as a guide for using RetroPie especially with a RickD
 ### Game genres present in the current Never Ending Edition
 
 [Playable Genres](/pages/systems/genres.md)
+</details>
+
+
 
 ## Frequently asked questions
 
