@@ -1,6 +1,6 @@
 # Recommended hardware
 
-This is a list of hardware recommendations by RickDangerous
+This is a list of hardware recommendations by RickDangerous and the community
 
 ## Controller
 
