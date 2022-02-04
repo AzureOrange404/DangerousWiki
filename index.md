@@ -32,11 +32,7 @@ This site mainly functions as a guide for using RetroPie especially with a RickD
 
 ### Controller Configuration
 
-[On first boot]
-
-[USB controller]
-
-[Bluetooth controller]
+[How to connect a controller to Emulation Station](/pages/guides/controller.md)
 
 ### Runcommand Launch Menu
 
