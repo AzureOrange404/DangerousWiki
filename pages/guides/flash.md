@@ -43,4 +43,4 @@ Again be careful to double and tripple check, you're selecting the correct drive
 
 ## How to flash the disk image using the Argon one case
 
-[Flash using the Argon One case](/pages/guides/flash_argon_one.md)
+[Flash using the Argon One case](flash_argon_one.md)
