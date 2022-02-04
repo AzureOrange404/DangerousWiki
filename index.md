@@ -10,21 +10,11 @@ This site mainly functions as a guide for using RetroPie especially with a RickD
 
 [Recommended Hardware](/pages/hardware/hardware.md)
 
-## Systems and games included
-
-### Currently included systems and games
-
-[Current Systems](/pages/systems/current.md)
-
-### Future additions
-
-[Future Additions](/pages/systems/future.md)
-
 ## Guides
 
 ### Flashing the image:
 
-[How to flash an disk image](/pages/guides/flash.md)
+[How to flash a disk image](/pages/guides/flash.md)
 
 ### Connecting the RPi4 to a display
 
@@ -45,3 +35,13 @@ This site mainly functions as a guide for using RetroPie especially with a RickD
 ### Emulation Station
 
 [Emulation Station]
+
+## Systems and games included
+
+### Currently included systems and games
+
+[Current Systems](/pages/systems/current.md)
+
+### Future additions
+
+[Future Additions](/pages/systems/future.md)
