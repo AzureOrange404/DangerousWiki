@@ -57,17 +57,6 @@ Cons:
 - The dongles are to thick I could only fit 2 with the argon case
 - When the dongle is connected even with the controller off it can causes some issues with other types of controllers until you remove the dongle
 
-### [WD Blue 3D NAND Internal SSD M.2 2280 SATA - 1 TB](https://www.westerndigital.com/products/internal-drives/wd-blue-sata-m-2-ssd)
-
-Pros:
-- Works great with my build 
-inside an argon one case or in external enclosure
-- Reasonable Price
-- Good Performance 
-
-Cons:
-- None I can think of!
-
 ### [8BitDo M30 Bluetooth Wireless Gamepad](https://www.8bitdo.com/m30/)
 
 Pros:
@@ -79,3 +68,48 @@ Pros:
 
 Cons:
 - No analog sticks so won't work for all systems
+
+## Raspberry Pi Case
+
+### [Argon One M.2 Case for RPi 4](https://www.argon40.com/argon-one-m-2-case-for-raspberry-pi-4.html)
+
+Pros:
+- M.2 SATA SSD Compatibility
+- Full-Sized HDMI
+- an many more
+
+Cons:
+- probably none
+
+## [RetroFlag NESPi 4 case](https://retroflag.com/nespi-4-case.html)
+
+Pros:
+- case for 2.5” SSD
+- power and reset buttons
+- nostalgic feel
+
+Cons:
+- Micro HDMI
+
+## Storage
+
+### [WD Blue 3D NAND Internal SSD M.2 2280 SATA - 1 TB](https://www.westerndigital.com/products/internal-drives/wd-blue-sata-m-2-ssd)
+
+Pros:
+- Works great with my build 
+inside an argon one case or in external enclosure
+- Reasonable Price
+- Good Performance 
+
+Cons:
+- None I can think of!
+
+### [Samsung 860 QVO SATA 2.5" SSD 1TB](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-860-qvo-2-5-sata-iii-1tb-mz-76q1t0b-am/)
+
+Pros:
+- Works great with the build if not using the Argon One case
+- Great performance
+- Reasonable Price
+
+Cons:
+- Costs more than the WD M.2
