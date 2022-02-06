@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Hardware
-description: Recommended Hardware for NEE
-light_mode: true
+description: NEE Recommended Hardware
+light_mode: false
 ---
 
 # Connect the Pi to a display
