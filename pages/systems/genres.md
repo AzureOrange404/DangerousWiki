@@ -1,3 +1,10 @@
+---
+layout: home
+title: Systems'n'Games
+description: NEE Featured Genres
+light_mode: false
+---
+
 # Featured Genres
 
 The following genres of games are featured in the newest RickDangerous Never Ending Edition.
