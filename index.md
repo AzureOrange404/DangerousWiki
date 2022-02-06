@@ -7,18 +7,24 @@ light_mode: false
 
 # The RickDangerous Project
 
-This site mainly functions as a guide for using RetroPie especially with a RickDangerous disk image.  
-*The wiki is still in early development*
+  This site mainly functions as a guide for using RetroPie especially with a RickDangerous disk image.  
+  *The wiki is still in early development*
+
+
+
 
 ## Hardware
-<details>
-  <summary>[Spoiler]</summary>
-</br>
-
-  [RickDangerous' personal setup](/pages/hardware/ricks_setup.md)
+  <details>
+    <summary>[Spoiler]</summary>
+  </br>
   
-  [Recommended Hardware](/pages/hardware/hardware.md)
-</details></br>
+    [NEE Recommended](/pages/hardware/hardware.md)
+  
+    [RickDangerous' setup](/pages/hardware/ricks_setup.md)
+  </details></br>
+
+
+
 
 ## How To
 
