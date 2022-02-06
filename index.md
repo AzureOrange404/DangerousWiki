@@ -1,7 +1,7 @@
 ---
 layout: home
 title: RickDangerous Project
-description: Welcome to the offial Wiki
+description: Welcome to the official Wiki
 light_mode: false
 ---
 
