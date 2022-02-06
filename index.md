@@ -1,5 +1,8 @@
 ---
 layout: home
+title: Rick Dangerous
+description: Welcome to the offial Wiki
+light_mode: false
 ---
 
 # RickDangerous Project Wiki
@@ -7,7 +10,7 @@ layout: home
 This site mainly functions as a guide for using RetroPie especially with a RickDangerous disk image.  
 *The wiki is still in early development*
 
-## Recommended Hardware
+## Hardware
 <details>
   <summary>[Spoiler]</summary>
 </br>
@@ -17,7 +20,7 @@ This site mainly functions as a guide for using RetroPie especially with a RickD
   [Recommended Hardware](/pages/hardware/hardware.md)
 </details></br>
 
-## How-To-Guides
+## How To
 
 <details>
   <summary>[Spoiler]</summary>
@@ -59,7 +62,7 @@ This site mainly functions as a guide for using RetroPie especially with a RickD
 [How to add new games](/pages/guides/new_games.md)
 </details></br>
 
-## Important files and their locations
+## Where is It?
 <details>
   <summary>[Spoiler]</summary>
 </br>
@@ -67,7 +70,7 @@ This site mainly functions as a guide for using RetroPie especially with a RickD
   [Important files and their locations](/pages/locations.md)
 </details></br>
 
-## Systems and genres included
+## Systems'n'Games
 <details>
   <summary>[Spoiler]</summary>
 
@@ -84,6 +87,6 @@ This site mainly functions as a guide for using RetroPie especially with a RickD
 [Playable Genres](/pages/systems/genres.md)
 </details></br>
 
-## Frequently asked questions
+## FAQ
 
 [FAQ](/pages/FAQ.md)
