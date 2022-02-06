@@ -1,7 +1,8 @@
 ---
 layout: home
 title: Hardware
-description: Recommended Hardware for NEE
+description: NEE Recommended
+light_mode: false
 ---
 
 # Recommended hardware
