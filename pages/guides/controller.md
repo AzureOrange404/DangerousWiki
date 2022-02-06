@@ -1,3 +1,10 @@
+---
+layout: home
+title: Hardware
+description: Recommended Hardware for NEE
+light_mode: false
+---
+
 # How to configure a controller on RetroPie  
 _by @RickDangerous_
 
