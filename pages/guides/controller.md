@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Hardware
-description: Recommended Hardware for NEE
+title: Controller
+description: Initial Controller Configuration
 light_mode: false
 ---
 
