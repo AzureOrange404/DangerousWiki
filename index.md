@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Rick Dangerous
+title: RickDangerous Project
 description: Welcome to the offial Wiki
 light_mode: false
 ---
 
-# RickDangerous Project Wiki
+# The RickDangerous Project
 
 This site mainly functions as a guide for using RetroPie especially with a RickDangerous disk image.  
 *The wiki is still in early development*
