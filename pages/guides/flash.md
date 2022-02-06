@@ -1,3 +1,10 @@
+---
+layout: home
+title: How To Flash
+description: Disk Images
+light_mode: false
+---
+
 # How to flash a disk image
 _by @RickDangerous and @AzureOrange_
 
