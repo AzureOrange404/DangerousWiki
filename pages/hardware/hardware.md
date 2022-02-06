@@ -1,3 +1,9 @@
+---
+layout: home
+title: Hardware
+description: Recommended Hardware for NEE
+---
+
 # Recommended hardware
 _by @RickDangerous and Community_
 
