@@ -1,3 +1,10 @@
+---
+layout: home
+title: How To Flash
+description: M.2 SSDs Using Argon One
+light_mode: false
+---
+
 # Flashing an Image using Argon One with M.2 SSD
 _by @RickDangerous_
 
