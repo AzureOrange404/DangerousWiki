@@ -1,3 +1,10 @@
+---
+layout: home
+title: Hardware
+description: Recommended Hardware for NEE
+light_mode: true
+---
+
 # Connect the Pi to a display
 
 ## General usage
