@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Hardware
-description: NEE Recommended Hardware
+title: How To Display
+description: Connection and Port Usage
 light_mode: false
 ---
 
