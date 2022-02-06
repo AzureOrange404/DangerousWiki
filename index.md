@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 # RickDangerous Project Wiki
 
 This site mainly functions as a guide for using RetroPie especially with a RickDangerous disk image.  
