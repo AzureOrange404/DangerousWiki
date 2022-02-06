@@ -1,3 +1,10 @@
+---
+layout: home
+title: Hardware
+description: RickDangerous' Setup
+light_mode: false
+---
+
 ## This is the setup RickDangerous currently uses himself
 _by @RickDangerous_
 
