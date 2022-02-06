@@ -1,3 +1,10 @@
+---
+layout: home
+title: Systems'n'Games
+description: NEE Included Systems
+light_mode: false
+---
+
 ## Systems currently included in the newest edition:
 
 <!---
