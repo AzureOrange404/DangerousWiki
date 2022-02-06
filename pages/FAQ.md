@@ -1,3 +1,10 @@
+---
+layout: home
+title: FAQ
+description: One Asked | One Answered
+light_mode: false
+---
+
 # Nice to know: Order of the systems on the build:
 0. Options
 1. Arcade type systems by alphabet 
