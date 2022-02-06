@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Controller
-description: Initial Controller Configuration
+title: How To Controller
+description: Initial Setup and Further
 light_mode: false
 ---
 
