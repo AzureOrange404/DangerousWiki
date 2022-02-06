@@ -1,4 +1,11 @@
-# How to Linux Terminal
+---
+layout: home
+title: How To Terminal
+description: Useful Shell Commands
+light_mode: false
+---
+
+# How to use Linux Terminal
 _by @AzureOrange and @RickDangerous_
 
 This guide provides a list of useful shell commands to use inside RetroPie
