@@ -7,21 +7,26 @@ light_mode: false
 
 # The RickDangerous Project
 
-  This site mainly functions as a guide for using RetroPie especially with a RickDangerous disk image.  
+  This site mainly functions as a guide for using RetroPie especially with a RickDangerous disk image.
+  
+  The newest Disk Image of the RickDangerous Project ist called the Never Ending Edition (NEE), which probably will be the latest Edition produced inside this Project.
+  
+  The NEE will recieve monthly updates until it reaches a size of roughly 1 TB.
+  
   *The wiki is still in early development*
 
 
 
 
 ## Hardware
-  <details>
-    <summary>[Spoiler]</summary>
-  </br>
+<details>
+  <summary>[Spoiler]</summary>
+</br>
   
-    [NEE Recommended](/pages/hardware/hardware.md)
+  [NEE Recommended](/pages/hardware/hardware.md)
   
-    [RickDangerous' setup](/pages/hardware/ricks_setup.md)
-  </details></br>
+  [RickDangerous' setup](/pages/hardware/ricks_setup.md)
+</details></br>
 
 
 
@@ -30,68 +35,55 @@ light_mode: false
 
 <details>
   <summary>[Spoiler]</summary>
+</br>
 
-  ### Flashing a disk image
+  [How To Flash](/pages/guides/flash.md)
 
-[How to flash a disk image](/pages/guides/flash.md)
+  [How To Display](/pages/guides/display.md)
 
-### Connecting the RPi 4 to a display
+  [How To Controller](/pages/guides/controller.md)
 
-[How to connect your RPi4 to a display](/pages/guides/display.md)
+  [How To Buttons](/pages/guides/swap_buttons.md)
 
-### Controller Configuration
+  [How To Terminal](/pages/guides/terminal.md)
 
-[How to configure a controller in Emulation Station](/pages/guides/controller.md)
+  [How To Runcommand](/pages/guides/runcommand.md)
 
-### Useful Linux Terminal commands
+  [How To Disks](/pages/guides/multi_disk_games.md)
 
-[How to Linux Terminal](/pages/guides/terminal.md)
+  [How To Hotkeys](/pages/guides/hotkeys.md)
 
-### Runcommand Launch Menu
-
-[How to mess with Runcommand](/pages/guides/runcommand.md)
-
-### Multi Disc Games
-
-[How to change game disc](/pages/guides/multi_disk_games.md)
-
-### Emulation Station Hotkeys
-
-[Hotkey Button and Hotkeys](/pages/guides/hotkeys.md)
-
-### Swap A and B buttons
-
-[How to swap A and B Button in Emulation Station](/pages/guides/swap_buttons.md)
-
-### Adding new games
-
-[How to add new games](/pages/guides/new_games.md)
+  [How To Add Games](/pages/guides/new_games.md)
 </details></br>
+
+
+
 
 ## Where is It?
 <details>
   <summary>[Spoiler]</summary>
 </br>
 
-  [Important files and their locations](/pages/locations.md)
+  [Files and Locations](/pages/locations.md)
 </details></br>
+
+
+
 
 ## Systems'n'Games
 <details>
   <summary>[Spoiler]</summary>
+</br>
 
-  ### Systems currently included in the RickDangerous Never Ending Edition
+  [NEE Included Systems](/pages/systems/current.md)
 
-[Current Systems](/pages/systems/current.md)
+  [NEE Future Additions](/pages/systems/future.md)
 
-### Future additions to the Never Ending Edition
-
-[Future Additions](/pages/systems/future.md)
-
-### Game genres present in the current Never Ending Edition
-
-[Playable Genres](/pages/systems/genres.md)
+  [NEE Featured Genres](/pages/systems/genres.md)
 </details></br>
+
+
+
 
 ## FAQ
 
