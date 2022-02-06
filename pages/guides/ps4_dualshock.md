@@ -1,3 +1,10 @@
+---
+layout: home
+title: How To Controller
+description: PS4 DualShock Controller
+light_mode: false
+---
+
 # How to pair and configure a PS4 DualShock Controller
 _by @RickDangerous_
 
