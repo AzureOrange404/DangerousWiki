@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Where is It?
-description: Files and Locations
+title: Files and Locations
+description: EMPTY FOR NOW
 light_mode: false
 ---
 
