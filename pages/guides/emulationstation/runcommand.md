@@ -1,7 +1,7 @@
 ---
 layout: home
-title: How To Runcommand
-description: EMPTY FOR NOW
+title: How To EmulationStation
+description: The ES Runcommand
 light_mode: false
 ---
 
