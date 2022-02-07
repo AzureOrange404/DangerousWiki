@@ -57,7 +57,7 @@ light_mode: false
   <summary>[Spoiler]</summary>
 </br>
 
-  [Files and Locations](/pages/locations.md)
+  [Files and Locations](/pages/guides/retropie/locations.md)
 </details></br>
 
 
