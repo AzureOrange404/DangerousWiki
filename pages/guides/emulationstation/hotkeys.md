@@ -1,7 +1,7 @@
 ---
 layout: home
-title: How To Hotkeys
-description: EMPTY FOR NOW
+title: How To EmulationStation
+description: ES Hotkeys
 light_mode: false
 ---
 
