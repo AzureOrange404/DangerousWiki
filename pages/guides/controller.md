@@ -13,6 +13,11 @@ This guide shows how to initially setup the very first USB connected controller 
 
 [Initial Setup](/controller/initial.md)
 
+## Swap A/B Buttons
+This guide shows how to swap A and B Buttons in EmulationStation, which are swapped by default and might be really annoying depending on what controller you use:
+
+[Swap A and B Buttons](/controller/swap_buttons.md)
+
 ## Additional Controller
 
 ### USB Controller
