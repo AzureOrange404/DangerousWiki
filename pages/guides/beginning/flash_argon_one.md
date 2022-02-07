@@ -30,8 +30,8 @@ If you have any problems flashing the drive using etcher, alternatively you can 
 
 This is an example of a USB A male to male connector cable:
 
-![usb_male.jpeg](/assets/guides/usb_male.jpg "USB Type A Male to Male Connector")
+![usb_male.jpeg](../../../../assets/guides/usb_male.jpg "USB Type A Male to Male Connector")
 
 This is an example of a M.2 to USB enclosure:
 
-![m2_enclosure.jpeg](/assets/guides/m2_enclosure.jpeg "M.2 SSD USB Enclosure")
+![m2_enclosure.jpeg](../../../../assets/guides/m2_enclosure.jpeg "M.2 SSD USB Enclosure")
