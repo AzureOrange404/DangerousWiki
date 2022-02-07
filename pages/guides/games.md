@@ -17,3 +17,8 @@ This guide shows how to change disks on multi-disk-games:
 This guide shows how to add new games to EmulationStation:
 
 [New Games - EMPTY](/games/new_games.md)
+
+## Game Manuals
+Here are some manuals for the various games featured by the NEE
+
+[Manuals - EMPTY](/games/manuals.md)
