@@ -46,6 +46,7 @@ sudo dd if=/PATH/to/RickDangerous.img of=/dev/sdX bs=4M conf=fsync
 ```
 where "if" points to the disk image and "of" to the disk you want to flash to (This might be /dev/sda, /dev/sdb etc.).  
 Again be careful to double and tripple check, you're selecting the correct drive. Choosing a wrong one will destroy all data on it.
+
 3. Hit enter and wait for the process to finish.
 
 ## How to flash the disk image using the Argon one case
