@@ -16,7 +16,7 @@ My personal choice is to setup my keyboard on first boot.
 1. Plug in your controller or keyboard, power you Raspberry Pi and boot into RetroPie,  
 you will see the following welcome screen.
 
-![controller_1.png](../../../assets/guides/controller/controller_1.png "RetroPie Welcome Screen")
+![controller_1.png](../../../../assets/guides/controller/controller_1.png "RetroPie Welcome Screen")
 
 2. Hold down a button and you will enter the configuration menu.  
 The controller configuring screen below shows us exactly what buttons to map.  
@@ -25,7 +25,7 @@ change the mapping for any specific button when we reach the bottom of the
 configuring menu.  
 You can also skip mapping buttons which your controller might not have by holding any already configured button to skip it.
 
-![controller_2.png](../../../assets/guides/controller/controller_2.png "Controller Configuration Menu")
+![controller_2.png](../../../../assets/guides/controller/controller_2.png "Controller Configuration Menu")
 
 3. Now I have my first controller setup I can now navigate emulation station and add more controllers.
 
