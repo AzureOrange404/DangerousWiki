@@ -5,11 +5,6 @@ description: Welcome to the official Wiki
 light_mode: false
 ---
 
-<div style="text-align: center;">
-  
-  ![Header Image](assets/theme/header.png "RickDangerous Header")
-</div>
-
 # The RickDangerous Project
 
   This site mainly functions as a guide for using RetroPie especially with a RickDangerous disk image.
