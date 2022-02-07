@@ -6,7 +6,8 @@ light_mode: false
 ---
 
 <div style="text-align: center;">
-![Header Image](/assets/img/header.png "RickDangerous Header")
+  
+  ![Header Image](/assets/theme/header.png "RickDangerous Header")
 </div>
 
 # The RickDangerous Project
