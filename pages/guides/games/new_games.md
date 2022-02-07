@@ -1,7 +1,7 @@
 ---
 layout: home
-title: How To Add Games
-description: EMPTY FOR NOW
+title: How To Games
+description: Adding new Games to ES
 light_mode: false
 ---
 
