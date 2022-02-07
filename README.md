@@ -1,3 +1,8 @@
+<div style="text-align: center;">
+  
+  ![Header Image](assets/theme/header.png "RickDangerous Header")
+</div>
+
 # Welcome to DangerousWiki
 
 DangerousWiki is the official wiki for the RickDangerous RetroPie project.
