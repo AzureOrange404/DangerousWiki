@@ -30,6 +30,6 @@ Then you proceed and configure your controller as you did on first boot.
 
 [PS4 DualShock Controller](ps4_dualshock.md)
 
-[8BitDo Pro2 - EMPTY]
+[8BitDo Pro 2](8bitdo_pro2.md)
 
 [Nintendo Switch Pro Controller - EMPTY]
