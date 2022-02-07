@@ -9,21 +9,26 @@ light_mode: false
 _by @AzureOrange_
 
 ## Initial Setup
-
 This guide shows how to initially setup the very first USB connected controller on the very first boot of RetroPie:
 
 [Initial Setup](/controller/initial.md)
 
-## Bluetooth Controller
+## Additional Controller
 
+### USB Controller
+This guide shows how to add an additional USB controller:
+
+[USB Controller Setup - EMPTY](/controller/usb.md)
+
+### Bluetooth Controller
 This guide shows how to connect and configure a controller via Bluetooth:
 
-[Bluetooth Controller Setup](/controller/bluetooth.md)
+[Bluetooth Controller Setup - EMPTY](/controller/bluetooth.md)
 
 ## Guides for specific Controllers
 
 [PS4 DualShock Controller](/controller/ps4_dualshock.md)
 
-[8BitDo Pro2 - EMPTY]
+[8BitDo Pro2 - EMPTY](/controller/8bitdo_pro2.md)
 
-[Nintendo Switch Pro Controller - EMPTY]
+[Nintendo Switch Pro Controller - EMPTY](/controller/switch_pro_controller.md)
