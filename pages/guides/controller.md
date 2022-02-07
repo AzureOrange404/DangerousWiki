@@ -34,6 +34,6 @@ This guide shows how to connect and configure a controller via Bluetooth:
 
 [PS4 DualShock Controller](/controller/ps4_dualshock.md)
 
-[8BitDo Pro2 - EMPTY](/controller/8bitdo_pro2.md)
+[8BitDo Pro 2](/controller/8bitdo_pro2.md)
 
 [Nintendo Switch Pro Controller - EMPTY](/controller/switch_pro_controller.md)
