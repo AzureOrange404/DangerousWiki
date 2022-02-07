@@ -1,5 +1,6 @@
 description: RickDangerous Project Wiki
-theme: jekyll-theme-cayman # AzureOrange404/DangerousCayman
+theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
 # remote_theme: lewismiddleton/cayman-dark
 # Welcome to Beautiful Jekyll!
 # This config file is meant for settings that affect your entire website. When you first
@@ -254,6 +255,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
