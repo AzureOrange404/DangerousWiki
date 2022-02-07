@@ -5,6 +5,10 @@ description: Welcome to the official Wiki
 light_mode: false
 ---
 
+<div style="text-align: center;">
+![Header Image](/assets/img/header.png "RickDangerous Header")
+</div>
+
 # The RickDangerous Project
 
   This site mainly functions as a guide for using RetroPie especially with a RickDangerous disk image.
@@ -37,23 +41,16 @@ light_mode: false
   <summary>[Spoiler]</summary>
 </br>
 
-  [How To Flash](/pages/guides/flash.md)
-
-  [How To Display](/pages/guides/display.md)
-
+  [How To Begin](/pages/guides/beginning.md)
+  
   [How To Controller](/pages/guides/controller.md)
-
-  [How To Buttons](/pages/guides/swap_buttons.md)
-
+  
   [How To Terminal](/pages/guides/terminal.md)
-
-  [How To Runcommand](/pages/guides/runcommand.md)
-
-  [How To Disks](/pages/guides/multi_disk_games.md)
-
-  [How To Hotkeys](/pages/guides/hotkeys.md)
-
-  [How To Add Games](/pages/guides/new_games.md)
+  
+  [How To EmulationStation](/pages/guides/emulationstation.md)
+  
+  [How To Games](/pages/guides/games.md)
+  
 </details></br>
 
 
