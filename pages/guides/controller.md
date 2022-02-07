@@ -23,7 +23,7 @@ This guide shows how to add an additional USB controller:
 ### Bluetooth Controller
 This guide shows how to connect and configure a controller via Bluetooth:
 
-[Bluetooth Controller Setup - EMPTY](/controller/bluetooth.md)
+[Bluetooth Controller Setup](/controller/bluetooth.md)
 
 ## Guides for specific Controllers
 
