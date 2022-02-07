@@ -1,15 +1,15 @@
 ---
 layout: home
-title: RickDangerous Project
+title: Rick Dangerous Project
 description: Welcome to the official Wiki
 light_mode: false
 ---
 
-# The RickDangerous Project
+# The Rick Dangerous Project
 
-  This site mainly functions as a guide for using RetroPie especially with a RickDangerous disk image.
+  This site mainly functions as a guide for using RetroPie especially with a Rick Dangerous disk image.
   
-  The newest Disk Image of the RickDangerous Project ist called the Never Ending Edition (NEE), which probably will be the latest Edition produced inside this Project.
+  The newest Disk Image of the Rick Dangerous Project is called the Never Ending Edition (NEE), which probably will be the latest Edition produced inside this Project.
   
   The NEE will recieve monthly updates until it reaches a size of roughly 1 TB.
   
