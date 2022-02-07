@@ -7,7 +7,7 @@ light_mode: false
 
 # The Rick Dangerous Project
 
-  This site mainly functions as a guide for using RetroPie especially with a Rick Dangerous disk image.
+  This site mainly functions as a guide for using the Never Ending Edition retropie image by Rick Dangerous.
   
   The newest Disk Image of the Rick Dangerous Project is called the Never Ending Edition (NEE), which probably will be the latest Edition produced inside this Project.
   
