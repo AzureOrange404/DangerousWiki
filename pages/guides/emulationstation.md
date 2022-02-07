@@ -11,9 +11,9 @@ _by @AzureOrange_
 ## ES Runcommand
 This guide shows how to use ES runcommand:
 
-[Runcommand - EMPTY](/emulationstation/runcommand.md)
+[Runcommand](/emulationstation/runcommand.md)
 
 ## Hotkeys
 This guide shows ES hotkeys:
 
-[Hotkeys - EMPTY](/beginning/hotkeys.md)
+[Hotkeys](/beginning/hotkeys.md)
