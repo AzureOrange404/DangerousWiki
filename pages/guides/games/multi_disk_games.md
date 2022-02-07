@@ -1,7 +1,7 @@
 ---
 layout: home
-title: How To Change Disks
-description: EMPTY FOR NOW
+title: How To Games
+description: Changing Disks inside multi-disk-games
 light_mode: false
 ---
 
