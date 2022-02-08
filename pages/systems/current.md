@@ -5,7 +5,7 @@ description: NEE Included Systems
 light_mode: false
 ---
 
-## Systems currently included in the newest edition:
+## Systems currently included in the newest Never Ending Edition:
 
 <!---
 [3DO](/pages/systems/3do.md)
