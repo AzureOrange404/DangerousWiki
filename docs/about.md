@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: FAQ
 description: One Asked | One Answered
 light_mode: false
