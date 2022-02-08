@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Hardware
 description: RickDangerous' Setup
 light_mode: false
