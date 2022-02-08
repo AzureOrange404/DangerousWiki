@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: terminal
 title: How To Terminal
 description: These are the Guides all about the Linux Terminal
 light_mode: false
