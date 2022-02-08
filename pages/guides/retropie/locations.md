@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Files and Locations
-description: EMPTY FOR NOW
+description: Where to find important Files
 light_mode: false
 ---
 
