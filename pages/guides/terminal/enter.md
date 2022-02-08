@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: terminal
 title: How To Terminal
 description: How to enter and use the Terminal
 light_mode: false
