@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: games
 title: How To Games
 description: These are the Guides all about Games
 light_mode: false
