@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FAQ
-description: One Asked | One Answered
+description: Question asked | Answer given
 light_mode: false
 ---
 
