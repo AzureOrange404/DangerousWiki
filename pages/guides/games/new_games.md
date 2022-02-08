@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: games
 title: How To Games
 description: Adding new Games to ES
 light_mode: false
