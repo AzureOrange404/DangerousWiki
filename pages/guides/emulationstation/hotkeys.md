@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: emulationstation
 title: How To EmulationStation
 description: ES Hotkeys
 light_mode: false
