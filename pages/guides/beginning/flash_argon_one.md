@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: beginning
 title: How To Flash
 description: M.2 SSDs Using Argon One
 light_mode: false
