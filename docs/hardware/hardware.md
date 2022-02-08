@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Hardware
 description: NEE Recommended
 light_mode: false
