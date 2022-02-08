@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Indey
+title: Index
 description: Keywords ordered alphabetically
 light_mode: false
 ---
