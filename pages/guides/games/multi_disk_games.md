@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: games
 title: How To Games
 description: Changing Disks inside multi-disk-games
 light_mode: false
