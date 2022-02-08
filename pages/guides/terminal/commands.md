@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: How To Terminal
 description: Useful Shell Commands
 light_mode: false
