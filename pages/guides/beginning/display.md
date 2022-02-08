@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: beginning
 title: How To Display
 description: Connection and Port Usage
 light_mode: false
