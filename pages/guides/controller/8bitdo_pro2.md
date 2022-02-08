@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: controller
 title: How To Controller
 description: 8BitDo Pro 2
 light_mode: false
