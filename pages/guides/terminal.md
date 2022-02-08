@@ -11,7 +11,7 @@ _by @AzureOrange_
 ## Enter the Terminal
 This guide shows how to enter the Terminal from EmulationStation:
 
-[Enter Terminal - EMPTY](/terminal/enter.md)
+[Enter Terminal](/terminal/enter.md)
 
 ## Useful Commands
 This guide provides some useful terminal commands:
