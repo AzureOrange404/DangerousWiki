@@ -7,7 +7,7 @@ light_mode: false
 
 # Featured Genres
 
-The following genres of games are featured in the newest RickDangerous Never Ending Edition.
+The following genres of games are featured in the newest Rick Dangerous Never Ending Edition.
 
 - Action
 - Action-Adventure
