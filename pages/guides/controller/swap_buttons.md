@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: controller
 title: How To Buttons
 description: EMPTY FOR NOW
 light_mode: false
