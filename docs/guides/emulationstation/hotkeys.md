@@ -15,7 +15,8 @@ It is suggested to use the Select button as the hotkey. The following chart show
 
 Note Hotkey combinations are specific to the retroarch/libretro based emulators.
 
-## EmulationStation Hotkey Combinations
+## EmulationStation Hotkey Combinations   
+_by @kerrz_
 
 - Hotkey+Start:   Exit
 - Hotkey+Right Shoulder:   Save
