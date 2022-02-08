@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: emulationstation
 title: How To EmulationStation
 description: The ES Runcommand
 light_mode: false
