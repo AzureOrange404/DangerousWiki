@@ -23,9 +23,9 @@ light_mode: false
   <summary>[Spoiler]</summary>
 </br>
   
-  [NEE Recommended](/pages/hardware/hardware.md)
+  [NEE Recommended](/docs/hardware/hardware.md)
   
-  [RickDangerous' setup](/pages/hardware/ricks_setup.md)
+  [RickDangerous' setup](/docs/hardware/ricks_setup.md)
 </details></br>
 
 
@@ -37,15 +37,15 @@ light_mode: false
   <summary>[Spoiler]</summary>
 </br>
 
-  [How To Begin](/pages/guides/beginning.md)
+  [How To Begin](/docs/guides/beginning.md)
   
-  [How To Controller](/pages/guides/controller.md)
+  [How To Controller](/docs/guides/controller.md)
   
-  [How To Terminal](/pages/guides/terminal.md)
+  [How To Terminal](/docs/guides/terminal.md)
   
-  [How To EmulationStation](/pages/guides/emulationstation.md)
+  [How To EmulationStation](/docs/guides/emulationstation.md)
   
-  [How To Games](/pages/guides/games.md)
+  [How To Games](/docs/guides/games.md)
   
 </details></br>
 
@@ -57,7 +57,7 @@ light_mode: false
   <summary>[Spoiler]</summary>
 </br>
 
-  [Files and Locations](/pages/guides/retropie/locations.md)
+  [Files and Locations](/docs/guides/retropie/locations.md)
 </details></br>
 
 
@@ -68,11 +68,11 @@ light_mode: false
   <summary>[Spoiler]</summary>
 </br>
 
-  [NEE Included Systems](/pages/systems/current.md)
+  [NEE Included Systems](/docs/systems/current.md)
 
-  [NEE Future Additions](/pages/systems/future.md)
+  [NEE Future Additions](/docs/systems/future.md)
 
-  [NEE Featured Genres](/pages/systems/genres.md)
+  [NEE Featured Genres](/docs/systems/genres.md)
 </details></br>
 
 
@@ -80,4 +80,4 @@ light_mode: false
 
 ## FAQ
 
-[FAQ](/pages/FAQ.md)
+[FAQ](/docs/FAQ.md)

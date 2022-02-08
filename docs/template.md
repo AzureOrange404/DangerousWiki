@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: New Page
 description: This is just a new page
 light_mode: false
