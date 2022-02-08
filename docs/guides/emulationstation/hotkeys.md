@@ -15,6 +15,16 @@ It is suggested to use the Select button as the hotkey. The following chart show
 
 Note Hotkey combinations are specific to the retroarch/libretro based emulators.
 
+## EmulationStation Hotkey Combinations
+
+- Hotkey+Start:   Exit
+- Hotkey+Right Shoulder:   Save
+- Hotkey+Left Shoulder:   Load
+- Hotkey+Right:   Input State Slot Increase
+- Hotkey+Left:   Input State Slot Decrease
+- Hotkey+X:   RGUI Menu
+- Hotkey+B:   Reset
+
 ## Game Focus
 
 Pressing Scroll Lock on the keyboard disables any hotkeys and sends all input directly to the game being run. 
