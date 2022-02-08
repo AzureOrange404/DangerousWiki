@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: beginning
 title: How To Flash
 description: Disk Images
 light_mode: false
