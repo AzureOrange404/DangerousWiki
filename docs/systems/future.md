@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Systems'n'Games
 description: NEE Future Additions
 light_mode: false
