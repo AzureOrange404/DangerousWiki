@@ -5,7 +5,7 @@ description: Question asked | Answer given
 light_mode: false
 ---
 
-# How are the systems sorted?
+# 1. How are the systems sorted?
 > 0. Options
 > 1. Arcade type systems by alphabet 
 > 2. Consoles and handhelds type systems by manufacture - alphabetical order (Nintendo, Sega...)
