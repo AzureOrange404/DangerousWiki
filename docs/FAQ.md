@@ -179,6 +179,7 @@ light_mode: false
 > 1. Settings > Inputs > Hotkeys
 >
 >     a. Rewind - set to L trigger button (L shoulder is occupied for load state).
+>     
 >     b. Enable hotkeys - set to your hotkey ("select")
 >     
 > 2. Settings > Frame Throttle > Rewind > Rewind Support
