@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: beginning
 title: How To Begin
 description: These are the Guides all about initial Setup
 light_mode: false
