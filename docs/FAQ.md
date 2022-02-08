@@ -16,6 +16,7 @@ light_mode: false
 
 # 3. My Controller does not work via bluetooth. What can I do?
 > _Answered by @MPoxon_
+> 
 > Reinstall bluez
 > 1. ` sudo apt --autoremove purge bluez `
 > 2. ` sudo apt install bluez `
@@ -81,6 +82,7 @@ light_mode: false
 
 # 10. Exit from PSP or Dreamcast does not work.
 > _Answered by @kerrz_
+> 
 > Dreamcast:
 > 1. Connect a keyboard.
 > 2. Start a Dreamcast game
@@ -104,6 +106,7 @@ light_mode: false
 
 # 12. My controller is not working.
 > _Answered by @Rafamate_
+> 
 > If you need to setup controllers from scratch and cannot use controller(s); using a keyboard you can go to:
 > 1. RetroPie
 > 2. RetroPie Setup 
@@ -113,6 +116,7 @@ light_mode: false
 
 # 13. How do I add a game to a collection?
 > _Answered by @Rafamate_
+> 
 > In EmulationStation, enter the Collection you want to add (or remove) games to. Press select and choose "add games to this collection", you can then navigate around different systems and add games by pressing Y button.
 > Once you're happy with the games you've added, make sure you press Select again and choose "Finish editing collection", in order to save it.
 > Be sure to shutdown properly or restart emulationstation to ensure it is kept next time you start your retropie!
@@ -147,6 +151,7 @@ light_mode: false
 
 # 18. How do I log into root user via cyberpunk or transmit on mac?
 > _Answered by @QUIZASERAQ_
+> 
 > There is no root password set by default so root login via cyberpunk or transmit on mac is not possible. 
 > There are tutorials on how to set one but u should backup before.
 > Quick steps:
@@ -168,6 +173,7 @@ light_mode: false
 
 # 19. How do I enable REWIND?
 > _Answered by @kerrz_
+> 
 > To enable REWIND in most games (Hotkey + L trigger):
 > OPTIONS > Retroarch (steps 1-2-3 below start on main menu):
 > 1. Settings > Inputs > Hotkeys
@@ -197,11 +203,13 @@ light_mode: false
 
 # 22. Where do I find my save files?
 > _Answered by @kerrz_
+> 
 > Save files are located in:
 > ` home/pi/RetroPie/saves/<system> `
 
 # 23. Can you recommend a torrent client?
 > _Answered by @kerrz_
+> 
 > Tixati or qbittorrent
 
 # 24. How are the systems sorted?
