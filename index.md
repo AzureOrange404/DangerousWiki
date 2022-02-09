@@ -46,18 +46,9 @@ light_mode: false
   [How To EmulationStation](/docs/guides/emulationstation.md)
   
   [How To Games](/docs/guides/games.md)
+
+  [How To RetroPie](/docs/guides/retropie.md)
   
-</details></br>
-
-
-
-
-## Where is It?
-<details>
-  <summary>[Spoiler]</summary>
-</br>
-
-  [Files and Locations](/docs/guides/retropie/locations.md)
 </details></br>
 
 

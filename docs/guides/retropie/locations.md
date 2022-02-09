@@ -1,6 +1,6 @@
 ---
-layout: home
-title: Files and Locations
+layout: retropie
+title: How To RetroPie
 description: Where to find important Files
 light_mode: false
 ---
