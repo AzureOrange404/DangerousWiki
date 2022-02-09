@@ -11,7 +11,7 @@ _by @AzureOrange_
 ## Choose you hardware
 This page provides a list of recommended hardware:
 
-[Recommended Hardware](../../../hardware/hardware.md)
+[Recommended Hardware](../../hardware/hardware.md)
 
 ## Verify the Image
 This guide shows how to verify the md5 hash of the image:
