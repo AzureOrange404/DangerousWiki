@@ -16,4 +16,4 @@ This guide shows how to use ES runcommand:
 ## Hotkeys
 This guide shows ES hotkeys:
 
-[Hotkeys](/beginning/hotkeys.md)
+[Hotkeys](/emulationstation/hotkeys.md)
