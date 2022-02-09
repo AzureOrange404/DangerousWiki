@@ -27,6 +27,16 @@ When Hashtab is installed, you go to the image file in windows explorer, right c
 _by @AzureOrange_
 
 1. Open your favourite Terminal
-2. `# md5sum /PATH/to/file > checksum.md5 ` (This will take a while, so grab a coffee)
-3. `# md5sum -c checkmd5.md5 `
-3. compare the output hash with the one provided
+2. Create a checksum of your image:   
+`# md5sum /PATH/to/file > checksum.md5 ` (This may take up to an hour, so grab a coffee)
+3. Check the integrety of that checksum:   
+`# md5sum -c checkmd5.md5 `
+4. Compare the output hash with the provided one.
+
+## Using Mac (Not yet tested)   
+_by @AzureOrange_
+
+1. Open your Terminal
+2. Create a checksum of your image:   
+` md5 -r /PATH/to/file `
+3. Compare the output hash with the provided one.

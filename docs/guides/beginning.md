@@ -12,7 +12,7 @@ _by @AzureOrange_
 ## Verify the Image
 This guide shows how to verify the md5 hash of the image:
 
-[Verify the Image - EMPTY](/beginning/verify.md)
+[Verify the Image](/beginning/verify.md)
 
 ## Flash the Image
 This guide shows how to flash the image onto various devices:
