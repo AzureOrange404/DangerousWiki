@@ -33,7 +33,7 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       </br>
-      <a href="/DangerousWiki/" class="btn">Home</a>
+      <a href="https://azureorange404.github.io/DangerousWiki/" class="btn">Home</a>
       </br>
     </header>
 
@@ -41,17 +41,21 @@
       {{ content }}
 
       <footer class="site-footer">
-        {% if site.github.is_project_page %}
-          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
-          </br>
-        {% endif %}
-        <a href="https://azureorange404.github.io/DangerousWiki/docs/FAQ/" title="FAQ">FAQ</a> </br>
-        <a href="https://azureorange404.github.io/DangerousWiki/docs/keyword_index/" title="Keyword Index">Keyword Index</a> </br>
-        <a href="https://azureorange404.github.io/DangerousWiki/docs/about/" title="About the project">About The Project</a> </br>
-        {% if site.github.is_project_page %}
-          </br>
-          <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-        {% endif %}
+        <div class="row local" align="center">
+          <a href="https://azureorange404.github.io/DangerousWiki/docs/FAQ/" title="FAQ">FAQ</a> </br>
+          <a href="https://azureorange404.github.io/DangerousWiki/docs/keyword_index/" title="Index">Index</a> </br>
+          <a href="https://azureorange404.github.io/DangerousWiki/docs/about/" title="About the project">About The Project</a> </br>
+        </div> </br>
+
+        <div class="row social" align="center">
+          <!-- <a target = "blank" href = 'https://www.twitch.tv/daisychaincosplay'><i class="fab fa-twitch"></i>&emsp;</a> -->
+          <a target = "blank" href = 'https://www.youtube.com/channel/UC-DyMEeix9cKCilqOkT69ng'><i class="fab fa-youtube"></i>&emsp;</a>
+          <!-- <a target = "blank" href='https://twitter.com/codingCommander' ><i class="fab fa-twitter"></i>&emsp;</a> -->
+          <!-- <a target = "blank" href='https://www.facebook.com/codingcommanders/'><i class='fab fa-facebook'></i>&emsp;</a> -->
+          <!-- <a target = "blank" href='https://www.instagram.com/codingcommanders'><i class='fab fa-instagram'></i>&emsp;</a> -->
+          <!-- <a target="blank" href="https://social.tchncs.de/@codingcommanders"><i class="fab fa-mastodon"></i>&emsp;</a> -->
+          <a target="blank" href="https://discord.gg/C4yY7Pty"> <i class="fab fa-discord"></i></a>
+        </div> </br>
       </footer>
     </main>
   </body>
