@@ -15,7 +15,7 @@ Anything graphical inside RetroPie is provided by EmulationStation and RetroArch
 
 To enter the RetroPie Terminal simply connect a keyboard to the Raspberry Pi and configure it inside EmulationStation as a controller.
 
-After configuring press the F4 key on the keyboard and RetroPie will switch to terminal.
+After configuring press the F4 key (or ALT + F4) on the keyboard and RetroPie will switch to terminal.
 
 Using the terminal any Linux package may be installed and executed.
 

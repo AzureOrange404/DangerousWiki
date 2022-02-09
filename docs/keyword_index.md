@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Index
-description: Keywords ordered alphabetically
+description: Search by Keywords
 light_mode: false
 ---
 

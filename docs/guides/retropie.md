@@ -1,7 +1,7 @@
 ---
 layout: retropie
 title: How To RetroPie
-description: These are the Guides all about RetroPie
+description: These Guides are all about RetroPie
 light_mode: false
 ---
 

@@ -13,7 +13,7 @@ _by @RickDangerous_
 The Hotkey button enables you to press it in combination with another button to access functions such as saving, loading, and exiting in emulators.  
 It is suggested to use the Select button as the hotkey. The following chart shows the default hotkey combinations. 
 
-Note Hotkey combinations are specific to the retroarch/libretro based emulators.
+Note Hotkey combinations are specific to RetroArch / Libretro based emulators.
 
 ## EmulationStation Hotkey Combinations   
 _by @kerrz_

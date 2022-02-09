@@ -1,7 +1,7 @@
 ---
 layout: games
 title: How To Games
-description: These are the Guides all about Games
+description: These Guides are all about Games
 light_mode: false
 ---
 

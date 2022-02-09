@@ -1,14 +1,14 @@
 ---
 layout: beginning
-title: How To Flash
-description: Disk Images
+title: How To Begin
+description: Flash Disk Images
 light_mode: false
 ---
 
 # How to flash a disk image
 _by @RickDangerous and @AzureOrange_
 
-This guide shows you how to flash a disk image (like the ones RickDangerous built) onto a suitable drive.
+This guide shows you how to flash a disk image (like the ones by RickDangerous) onto a suitable drive. (SD Card, SSD, M.2 etc.)
 
 ## Recommended Software
 
@@ -49,6 +49,6 @@ Again be careful to double and tripple check, you're selecting the correct drive
 
 3. Hit enter and wait for the process to finish.
 
-## How to flash the disk image using the Argon one case
+## How to flash an M.2 SSD using the Argon one case
 
 [Flash using the Argon One case](flash_argon_one.md)

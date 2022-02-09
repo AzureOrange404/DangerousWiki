@@ -1,7 +1,7 @@
 ---
 layout: controller
 title: How To Controller
-description: These are the Guides all about Controllers
+description: These Guides are all about Controllers
 light_mode: false
 ---
 

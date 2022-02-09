@@ -1,11 +1,11 @@
 ---
 layout: beginning
-title: How To Flash
-description: M.2 SSDs Using Argon One
+title: How To Begin
+description: Flash M.2 SSDs Using Argon One
 light_mode: false
 ---
 
-# Flashing an Image using Argon One with M.2 SSD
+# Flashing an Image using the Argon One case with M.2 SSD
 _by @RickDangerous_
 
 If you are using the Argon One case with an M.2 SSD installed inside the case, then you

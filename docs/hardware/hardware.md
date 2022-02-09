@@ -90,7 +90,7 @@ Pros:
 Cons:
 - probably none
 
-## [RetroFlag NESPi 4 case](https://retroflag.com/nespi-4-case.html)
+### [RetroFlag NESPi 4 case](https://retroflag.com/nespi-4-case.html)
 
 Pros:
 - case for 2.5” SSD (hot-swappable)

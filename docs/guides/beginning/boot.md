@@ -1,17 +1,17 @@
 ---
 layout: beginning
-title: How To Display
-description: Connection and Port Usage
+title: How To Begin
+description: Boot from a USB Device
 light_mode: false
 ---
 
 # How to boot from a USB Device?
 _by @kerrz_
 
-Change boot sequence on Raspberry Pi 4.
+## Change boot sequence on Raspberry Pi 4
 `Boot first USB, if no USB present, boot from SD card`
 
-On your PC:
+## On your PC:
 Insert an empty SD card (or one that is ok to be overwritten) and Open Raspberry Pi Imager.
 1. Choose OS > Misc utility images > Bootloader > USB Boot
 2. Storage > select your SD card (to be overwritten) 

@@ -1,7 +1,7 @@
 ---
 layout: controller
 title: How To Controller
-description: PS4 DualShock Controller
+description: PS4 DualShock
 light_mode: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: controller
 title: How To Buttons
-description: EMPTY FOR NOW
+description: Swap A and B Buttons
 light_mode: false
 ---
 

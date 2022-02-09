@@ -5,18 +5,17 @@ description: Welcome to the official Wiki
 light_mode: false
 ---
 
-# The Rick Dangerous Project
+# Welcome
 
   This site mainly functions as a guide for using the Never Ending Edition retropie image by Rick Dangerous.
   
   The newest Disk Image of the Rick Dangerous Project is called the Never Ending Edition (NEE), which probably will be the latest Edition produced inside this Project.
   
   The NEE will recieve monthly updates until it reaches a size of roughly 1 TB.
-  
-  *The wiki is still in early development*
 
+# The Rick Dangerous Project
 
-
+@RickDangerous loved playing Games on various systems since he was a little kid. When he got into emulation he became obsessed and releases image after image. But more about @RickDangerous and his project in the [about](/docs/about.md) section.   
 
 ## Hardware
 <details>
@@ -27,9 +26,6 @@ light_mode: false
   
   [RickDangerous' setup](/docs/hardware/ricks_setup.md)
 </details></br>
-
-
-
 
 ## How To
 
@@ -51,9 +47,6 @@ light_mode: false
   
 </details></br>
 
-
-
-
 ## Systems'n'Games
 <details>
   <summary>[Spoiler]</summary>
@@ -65,9 +58,6 @@ light_mode: false
 
   [NEE Featured Genres](/docs/systems/genres.md)
 </details></br>
-
-
-
 
 ## FAQ
 

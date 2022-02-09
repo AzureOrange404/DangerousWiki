@@ -1,13 +1,17 @@
 ---
 layout: beginning
 title: How To Begin
-description: These are the Guides all about initial Setup
+description: These Guides are all about initial Setup
 light_mode: false
 ---
 
 # How To Begin?  
 _by @AzureOrange_
 
+## Choose you hardware
+This page provides a list of recommended hardware:
+
+[Recommended Hardware](../../../hardware/hardware.md)
 
 ## Verify the Image
 This guide shows how to verify the md5 hash of the image:

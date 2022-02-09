@@ -1,7 +1,7 @@
 ---
 layout: emulationstation
 title: How To EmulationStation
-description: These are the Guides all about EmulationStation
+description: These Guides are all about EmulationStation
 light_mode: false
 ---
 

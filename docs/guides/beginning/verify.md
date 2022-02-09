@@ -1,7 +1,7 @@
 ---
 layout: beginning
-title: How To Display
-description: Connection and Port Usage
+title: How To Begin
+description: Check for Image Corruption
 light_mode: false
 ---
 

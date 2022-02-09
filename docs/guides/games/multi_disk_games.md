@@ -1,7 +1,7 @@
 ---
 layout: games
 title: How To Games
-description: Changing Disks inside multi-disk-games
+description: Changing Disks inside Multi-Disk-Games
 light_mode: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: beginning
-title: How To Display
-description: Connection and Port Usage
+title: How To Begin
+description: Display Connection and HDMI Port Selection
 light_mode: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: FAQ
-description: One Asked | One Answered
+title: About
+description: The Rick Dangerous Project
 light_mode: false
 ---
 

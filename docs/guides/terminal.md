@@ -1,7 +1,7 @@
 ---
 layout: terminal
 title: How To Terminal
-description: These are the Guides all about the Linux Terminal
+description: These Guides are all about Linux Terminal
 light_mode: false
 ---
 
