@@ -36,4 +36,6 @@ This guide shows how to connect and configure a controller via Bluetooth:
 
 [8BitDo Pro 2](/controller/8bitdo_pro2.md)
 
+[XBox One Controller](/controller/xbox_one.md)
+
 [Nintendo Switch Pro Controller - EMPTY](/controller/switch_pro_controller.md)
