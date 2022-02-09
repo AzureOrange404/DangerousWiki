@@ -23,7 +23,7 @@ This guide shows how to swap A and B Buttons in EmulationStation, which are swap
 ### USB Controller
 This guide shows how to add an additional USB controller:
 
-[USB Controller Setup - EMPTY](/controller/usb.md)
+[USB Controller Setup](/controller/usb.md)
 
 ### Bluetooth Controller
 This guide shows how to connect and configure a controller via Bluetooth:
