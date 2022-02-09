@@ -42,11 +42,13 @@
       {{ content }}
 
       <footer class="site-footer">
-        <a href="https://azureorange404.github.io/DangerousWiki/docs/FAQ/" title="FAQ">FAQ</a> </br>
-        <a href="https://azureorange404.github.io/DangerousWiki/docs/keyword_index/" title="Index">Index</a> </br>
-        <a href="https://azureorange404.github.io/DangerousWiki/docs/about/" title="About the project">About The Project</a> </br>
+        <div class="row local" align="center"></div>
+          <a href="https://azureorange404.github.io/DangerousWiki/docs/FAQ/" title="FAQ">FAQ</a> </br>
+          <a href="https://azureorange404.github.io/DangerousWiki/docs/keyword_index/" title="Index">Index</a> </br>
+          <a href="https://azureorange404.github.io/DangerousWiki/docs/about/" title="About the project">About The Project</a> </br>
+        </div>
 
-        <div class="row social" align="left">
+        <div class="row social" align="center">
           <!-- <a target = "blank" href = 'https://www.twitch.tv/daisychaincosplay'><i class="fab fa-twitch"></i></a> -->
           <a target = "blank" href = 'https://www.youtube.com/channel/UC-gCUMK_EGUqJ7P9VA7BJmQ'><i class="fab fa-youtube"></i></a>
           <!-- <a target = "blank" href='https://twitter.com/codingCommander' ><i class="fab fa-twitter"></i></a> -->
@@ -57,9 +59,11 @@
         </div>
 
         {% if site.github.is_project_page %}
-          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
-          </br>
-          <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+          <div class="row github" align="center">
+            <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
+            </br>
+            <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+          </div>
         {% endif %}
       </footer>
     </main>
