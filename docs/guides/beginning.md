@@ -8,10 +8,6 @@ light_mode: false
 # How To Begin?  
 _by @AzureOrange_
 
-## Download the Image
-This guide shows how and where to download RetroPie disk images:
-
-[Download - EMPTY](/beginning/download.md)
 
 ## Verify the Image
 This guide shows how to verify the md5 hash of the image:
