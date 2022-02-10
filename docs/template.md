@@ -1,10 +1,14 @@
 ---
 layout: default
-title: New Page
-description: This is just a new page
+title: This is a title
+description: This is just a new description
 light_mode: false
 ---
 
-# Welcome to here
+# This is a header
 
-and bye again.
+## This is a second header
+
+This is some text.
+
+Au'revoir.

@@ -5,8 +5,7 @@ description: These Guides are all about Controllers
 light_mode: false
 ---
 
-# How To Controller?  
-_by @AzureOrange_
+# How To Controller?
 
 ## Initial Setup
 This guide shows how to initially setup the very first USB connected controller on the very first boot of RetroPie:

@@ -5,8 +5,7 @@ description: These Guides are all about Games
 light_mode: false
 ---
 
-# How To Games?  
-_by @AzureOrange_
+# How To Games?
 
 ## Change Disks
 This guide shows how to change disks on multi-disk-games:
@@ -19,6 +18,6 @@ This guide shows how to add new games to EmulationStation:
 [New Games](/games/new_games.md)
 
 ## Game Manuals
-Here are some manuals for the various games featured by the NEE
+Here are some manuals for the various games featured in the NEE.
 
 [Manuals - EMPTY](/games/manuals.md)

@@ -5,8 +5,7 @@ description: These Guides are all about initial Setup
 light_mode: false
 ---
 
-# How To Begin?  
-_by @AzureOrange_
+# How To Begin?
 
 ## Choose you hardware
 This page provides a list of recommended hardware:
@@ -23,7 +22,7 @@ This guide shows how to flash the image onto various devices:
 
 [Flash the Image](/beginning/flash.md)
 
-## Connecting the Raspberry Pi to a display
+## Connect the Raspberry Pi to a display
 This guide shows how to correctly connect the Pi to a display:
 
 [Display Connection](/beginning/display.md)

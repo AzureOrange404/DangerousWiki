@@ -5,8 +5,7 @@ description: These Guides are all about Linux Terminal
 light_mode: false
 ---
 
-# How To Terminal?  
-_by @AzureOrange_
+# How To Terminal?
 
 ## Enter the Terminal
 This guide shows how to enter the Terminal from EmulationStation:

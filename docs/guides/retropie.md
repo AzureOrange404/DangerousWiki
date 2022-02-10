@@ -5,8 +5,7 @@ description: These Guides are all about RetroPie
 light_mode: false
 ---
 
-# How To RetroPie?   
-_by @AzureOrange_
+# How To RetroPie?
 
 ## Where is It?
 This guide provides a list with important files and their locations.
