@@ -24,7 +24,7 @@ The Titan Bingie Mod is one of the best netflix-like skins for Kodi. It provides
 5. Return to the Settings Menu and click on **Add-Ons**
 6. Click **Install from .zip file**
 7. Choose the bingie source and click on the .zip repository
-8. Now click **Install from repository** 
+8. Now click **Install from repository**   
     8.1 Click **Look and Feel**   
 
     8.2 Click **Skin**   
@@ -32,7 +32,7 @@ The Titan Bingie Mod is one of the best netflix-like skins for Kodi. It provides
     8.3 Click **Titan-Bingie**   
 
     8.4 Hit the Install button   
-    
+
     8.5 Click **OK** to install all dependencies
 9. When asked to switch to the new skin, click **Yes**
 10. Click **Yes** to keep the change
