@@ -142,6 +142,7 @@ light_mode: false
 - Game Boy Advance
 - Game Boy Colour
 - Intellivision
+- [Kodi](https://azureorange404.github.io/DangerousWiki/docs/guides/kodi/)
 - Master System
 - Megadrive
 - Msx

@@ -44,6 +44,8 @@ light_mode: false
   [How To Games](/docs/guides/games.md)
 
   [How To RetroPie](/docs/guides/retropie.md)
+
+  [How To Kodi](/docs/guides/kodi.md)
   
 </details></br>
 
