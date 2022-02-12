@@ -12,10 +12,10 @@ Configuring a controller inside Kodi is fairly easy. Recommended for Kodi is any
 
 If you have not yet configured a controller for Kodi you may use a keyboard to go through the first steps.
 
-1. Enter Settings
-2. Enter System
-3. Select Input
-4. Select Configure attached controllers
+1. Enter **Settings**
+2. Enter **System**
+3. Select **Input**
+4. Select **Configure attached controllers**
 5. If you use a controller with the same button layout as an XBox Controller:   
     5.1 choose **Kodi**   
 
