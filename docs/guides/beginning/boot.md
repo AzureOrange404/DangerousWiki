@@ -9,7 +9,13 @@ light_mode: false
 _by @kerrz_
 
 ## Change boot sequence on Raspberry Pi 4
-`Boot first USB, if no USB present, boot from SD card`
+
+If your firmware already is up to date, do the following to setup USB-Boot:
+
+1. Enter raspi-config
+2. Choose **Advanced Options**
+3. Choose **Boot Order**
+4. Choose ` Boot first USB, if no USB present, boot from SD card `
 
 ## On your PC:
 Insert an empty SD card (or one that is ok to be overwritten) and Open Raspberry Pi Imager.
@@ -17,7 +23,7 @@ Insert an empty SD card (or one that is ok to be overwritten) and Open Raspberry
 2. Storage > select your SD card (to be overwritten) 
 3. Push write and let it complete writing and verify process.
 
-On your Raspberry Pi 4:
+## On your Raspberry Pi 4:
 1. Insert the newly created SD card into your Pi. Power on and Wait at least 10 seconds until the display becomes green, then power off the Raspberry Pi and remove the SD card.
 2. Let the SSD boot with no card in SD slot first and let it finish booting.
 3. Shut down.
