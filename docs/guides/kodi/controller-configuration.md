@@ -23,7 +23,7 @@ If you have not yet configured a controller for Kodi you may use a keyboard to g
 
     5.3 hit **OK**
 6. If you use any other kind of controller:   
-    6.1 Choose **Get more...* on the right   
+    6.1 Choose **Get more...** on the right   
 
     6.2 choose a controller, which matches the layout of yours, from the list   
 
