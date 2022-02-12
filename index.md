@@ -7,13 +7,15 @@ light_mode: false
 
 # Welcome
 
-  Welcome to the official Rick Dangerous Project Wiki. This wiki mainly functions as a guide for using the Never Ending Edition RetroPie image by Rick Dangerous.
+  Welcome to the official Rick Dangerous Project Wiki.   
+  This wiki mainly functions as a guide for using the Never Ending Edition RetroPie image by Rick Dangerous.
 
 # The Rick Dangerous Project
 
-  Rick Dangerous loved playing Games on various systems since he was a little kid. When he got into emulation he became obsessed and even released his disk images to be downloaded. The **Never Ending Edition** (NEE) is the newest creation by Rick Dangerous and it probably will be the latest edition produced within this Project.
-  But it is not copmleted yet and will recieve monthly updates until it reaches a size of roughly 1 TB. 
-  But more about Rick Dangerous and his project in the [about](/docs/about.md) section.   
+  Rick Dangerous loved playing games on various systems since he was a little kid. When he got into emulation he became obsessed and even released his disk images to be downloaded.   
+  The **Never Ending Edition** (NEE) is the newest creation by Rick Dangerous and it probably will be the last edition produced within this project.
+  But it is not completed yet and will recieve monthly updates until it reaches a size of roughly 1 TB.   
+  More about Rick Dangerous and his project in the [about](/docs/about.md) section.
 
 ## Hardware
 <details>
