@@ -10,7 +10,7 @@ light mode: false
   Welcome to the official Rick Dangerous Project Wiki.   
   This wiki mainly functions as a guide for using the Never Ending Edition RetroPie image by Rick Dangerous.
 
-# The Rick Dangerous Project
+## The Rick Dangerous Project
 
   Rick Dangerous loved playing games on various systems since he was a little kid. When he got into emulation he became obsessed and even released his disk images to be downloaded.   
   
