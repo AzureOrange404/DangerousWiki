@@ -2,7 +2,7 @@
 layout: home
 title: Rick Dangerous Project
 description: Welcome to the official Wiki
-light_mode: false
+light mode: false
 ---
 
 # Welcome
