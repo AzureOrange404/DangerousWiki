@@ -13,8 +13,11 @@ light_mode: false
 # The Rick Dangerous Project
 
   Rick Dangerous loved playing games on various systems since he was a little kid. When he got into emulation he became obsessed and even released his disk images to be downloaded.   
+  
   The **Never Ending Edition** (NEE) is the newest creation by Rick Dangerous and it probably will be the last edition produced within this project.
-  But it is not completed yet and will recieve monthly updates until it reaches a size of roughly 1 TB.   
+  
+  It is not completed yet and will recieve some updates. The Never Ending But Ended Edition will then again be available to download.
+  
   More about Rick Dangerous and his project in the [about](/docs/about.md) section.
 
 ## Hardware
@@ -64,3 +67,13 @@ light_mode: false
 ## FAQ
 
 [FAQ](/docs/FAQ.md)
+
+## Alternative DNS
+
+This wiki is also available via the new internet protocol [Gemini](https://gemini.circumlunar.space/), which is a private and secure alternative to the https standard of today. 
+
+Gemini only features a text based environment, therefore videos, pictures etc. which are included to a gemini capsule (what's their word for webpage) will directly be opened with the software of your choice.
+
+[Dangerous Wiki Capsule](gemini://dangerouswiki.capsule.town)
+
+A recommended browser for you linux termal would be [amfora](https://github.com/makeworld-the-better-one/amfora), which also works directly on your Raspberry Pi.
