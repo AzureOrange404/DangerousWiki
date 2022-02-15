@@ -68,7 +68,7 @@ light mode: false
 
 [FAQ](/docs/FAQ.md)
 
-## Alternative DNS
+## Gemini Capsule
 
 This wiki is also available via the new internet protocol [Gemini](https://gemini.circumlunar.space/), which is a private and secure alternative to the https standard of today. 
 
@@ -77,3 +77,5 @@ Gemini only features a text based environment, therefore videos, pictures etc. w
 [Dangerous Wiki Capsule](gemini://dangerouswiki.capsule.town)
 
 A recommended browser for you linux termal would be [amfora](https://github.com/makeworld-the-better-one/amfora), which also works directly on your Raspberry Pi.
+
+On mobile a recommended browser would be [deedum](https://github.com/snoe/deedum).
