@@ -18,6 +18,6 @@ This guide shows how to add new games to EmulationStation:
 [New Games](/games/new_games.md)
 
 ## Game Manuals
-Here are some manuals for the various games featured in the NEE.
+The available Manuals are directly included to the build itself under:
+> /home/pi/Retropie/GameManuals
 
-[Manuals - EMPTY](/games/manuals.md)

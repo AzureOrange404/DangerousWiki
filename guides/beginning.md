@@ -10,7 +10,7 @@ light_mode: false
 ## Choose you hardware
 This page provides a list of recommended hardware:
 
-[Recommended Hardware](https://azureorange404.github.io/DangerousWiki/docs/hardware/hardware/)
+[Recommended Hardware](https://azureorange404.github.io/DangerousWiki/hardware/recommended/)
 
 ## Verify the Image
 This guide shows how to verify the md5 hash of the image:
