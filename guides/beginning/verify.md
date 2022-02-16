@@ -31,7 +31,10 @@ _by @AzureOrange_
 `# md5sum /PATH/to/file > checksum.md5 `
 3. Check the integrety of that checksum (Another cup of coffee is recommended):   
 `# md5sum -c checkmd5.md5 `
-4. Compare the output hash with the provided one.
+4. Compare the output hash with the provided one.   
+NEE MD5: `0238609F7D0AB1C19C1E676FC7E70D0B`   
+NEE SHA1: `5DEE526463F7F3F5F8A6021BF0924843E0F2D95B`
+
 
 ## Using Mac (Not yet tested)   
 _by @AzureOrange_
