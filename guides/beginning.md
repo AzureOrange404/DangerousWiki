@@ -31,3 +31,7 @@ This guide shows how to correctly connect the Pi to a display:
 This guide shows how to boot into RetroPie using various USB devices:
 
 [Boot from USB](/beginning/boot.md)
+
+Your Pi does not boot at all?
+
+[RPi Boot Troubleshoot](/beginning/boot-troubleshoot.md)

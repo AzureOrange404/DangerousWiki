@@ -35,6 +35,10 @@ Custom game collections
 
 ``` home/pi/RetroPie/saves ```
 
+### N64 Game Saves
+
+``` /home/pi/.local/share/mupen64plus/save ```
+
 ## Splashscreens
 
 ``` home/pi/RetroPie/splashscreens ```
